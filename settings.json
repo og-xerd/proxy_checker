@@ -1,0 +1,7 @@
+{
+    "threads_limit": 2000,
+    "timeout_settings": {
+        "timeout_check": true,
+        "timeout_limit": 10000
+    }
+}
